@@ -1,0 +1,57 @@
+[
+    {
+      "question": "What is React?",
+      "answers": [
+        { "text": "React is a JavaScript library for building user interfaces.", "correct": true },
+        { "text": "React is a programming language.", "correct": false },
+        { "text": "React is a backend framework.", "correct": false }
+      ],
+      "visibleInCourse": true
+    },
+    {
+      "question": "What are the key features of React?",
+      "answers": [
+        { "text": "Virtual DOM for efficient updates.", "correct": true },
+        { "text": "Two-way data binding.", "correct": false },
+        { "text": "Only supports functional components.", "correct": false }
+      ],
+      "visibleInCourse": true
+    },
+    {
+      "question": "What is JSX?",
+      "answers": [
+        { "text": "JSX is a syntax for defining CSS styles in React components.", "correct": false },
+        { "text": "JSX is a templating engine for server-side rendering.", "correct": false },
+        { "text": "JSX is a syntax extension for JavaScript used with React.", "correct": true }
+      ],
+      "visibleInCourse": false
+    },
+    {
+      "question": "Explain the concept of 'props' in React.",
+      "answers": [
+        { "text": "'Props' are a way to pass data from parent to child components.", "correct": true },
+        { "text": "'Props' are used for managing a component's internal state.", "correct": false },
+        { "text": "'Props' are global variables accessible throughout the application.", "correct": false }
+      ],
+      "visibleInCourse": true
+    },
+    {
+      "question": "What is the significance of the 'state' in React?",
+      "answers": [
+        { "text": "The 'state' holds static data for a component.", "correct": false },
+        { "text": "The 'state' is used for styling React components.", "correct": false },
+        { "text": "The 'state' is an object that represents the internal dynamic data of a component.", "correct": true }
+      ],
+      "visibleInCourse": false
+    },
+    {
+      "question": "Explain the component lifecycle in React.",
+      "answers": [
+        { "text": "The component lifecycle is a concept unrelated to React development.", "correct": false },
+        { "text": "The component lifecycle describes the stages of a component's birth, growth, and death.", "correct": true },
+        { "text": "The component lifecycle only consists of the 'render' stage.", "correct": false }
+      ],
+      "visibleInCourse": true
+    }
+  ]
+  
